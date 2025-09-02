@@ -2,7 +2,3 @@ baseURL = "https://emersonrealestateblogs.netlify.app/"
 languageCode = "en-us"
 title = "Emerson Real Estate Blogs"
 theme = "ananke"
-
-[params]
-  featured_image = "images/emerson-banner.png"
-  customCSS = ["css/custom.css"]

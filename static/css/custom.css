@@ -1,0 +1,10 @@
+.hero, .cover, .main {
+  min-height: auto !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+body {
+  background: white;
+  color: black;
+  font-family: sans-serif;
+}

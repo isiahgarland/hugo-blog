@@ -1,0 +1,15 @@
+<head>
+  <meta charset="utf-8">
+  <title>{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  {{ with .Site.Params.description }}
+    <meta name="description" content="{{ . }}">
+  {{ end }}
+
+  <!-- Google Search Console verification -->
+  <meta name="google-site-verification" content="GXlfcajeg_nS9P5RYUhgWBKmzX9ewjdJKb_QkJBB_1I" />
+
+  <!-- Default theme CSS -->
+  <link rel="stylesheet" href="{{ "css/styles.css" | relURL }}">
+</head>
