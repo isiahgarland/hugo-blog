@@ -2,8 +2,8 @@
 title: The Quickest Way to Sell Inherited Property Without Stress
 date: 2025-09-01
 draft: false
+featured_image: "/images/cash-home-buyers-columbus-oh.webp"
 ---
-
 Inheriting property can feel like a blessing and a burden all at once. While it’s valuable, managing or selling inherited real estate often comes with complicated emotions, legal paperwork, and time-consuming processes. If you’re looking to sell inherited property quickly and without stress, Emerson Real Estate is here to guide you every step of the way.
 Why Selling Inherited Property Can Be Challenging
 Inherited properties often come with challenges such as:
