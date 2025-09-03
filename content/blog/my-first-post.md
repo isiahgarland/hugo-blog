@@ -2,7 +2,6 @@
 title: "The Quickest Way to Sell Inherited Property Without Stress"
 date: 2025-09-01
 draft: false
-featured_image: "/images/cash-home-buyers-columbus-oh.webp"
 ---
 
 ![Featured Image](/images/cash-home-buyers-columbus-oh.webp)
