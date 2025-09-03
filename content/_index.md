@@ -1,6 +1,6 @@
 ---
-title: "Blog"
+title: "Emerson Real Estate Blogs"
 layout: "list"
 ---
 
-Here are our latest real estate posts:
+Here Are Our Latest Real Estate Posts:
