@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Emerson Real Estate Blogs</title>
-    <link>https://emersonrealestateblogs.netlify.app/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content in Blogs on Emerson Real Estate Blogs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 02 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://emersonrealestateblogs.netlify.app/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sell Your House Fast with Emerson Real Estate</title>
-      <link>https://emersonrealestateblogs.netlify.app/blog/sell-your-house-fast/</link>
+      <link>http://localhost:1313/blog/sell-your-house-fast/</link>
       <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://emersonrealestateblogs.netlify.app/blog/sell-your-house-fast/</guid>
+      <guid>http://localhost:1313/blog/sell-your-house-fast/</guid>
       <description>&lt;p&gt;🔍 What Is Real Estate Wholesaling?&#xA;Real estate wholesaling is a process where we connect motivated sellers with investors who are ready to buy. That means:&#xA;You don’t need to fix anything&lt;/p&gt;&#xA;&lt;p&gt;No agent fees or commissions&lt;/p&gt;&#xA;&lt;p&gt;We handle all the paperwork&lt;/p&gt;&#xA;&lt;p&gt;You get cash fast&lt;/p&gt;&#xA;&lt;p&gt;We buy houses in any condition and work with homeowners who are:&#xA;Facing foreclosure&lt;/p&gt;&#xA;&lt;p&gt;Dealing with inherited or probate property&lt;/p&gt;&#xA;&lt;p&gt;Behind on payments or taxes&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Quickest Way to Sell Inherited Property Without Stress</title>
-      <link>https://emersonrealestateblogs.netlify.app/blog/my-first-post/</link>
+      <link>http://localhost:1313/blog/my-first-post/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://emersonrealestateblogs.netlify.app/blog/my-first-post/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://emersonrealestateblogs.netlify.app/images/cash-home-buyers-columbus-oh.webp&#34; alt=&#34;Featured Image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Inheriting property can feel like a blessing and a burden all at once. While it’s valuable, managing or selling inherited real estate often comes with complicated emotions, legal paperwork, and time-consuming processes. If you’re looking to sell inherited property quickly and without stress, Emerson Real Estate is here to guide you every step of the way.&#xA;Why Selling Inherited Property Can Be Challenging&#xA;Inherited properties often come with challenges such as:&#xA;Multiple heirs who must agree on the sale&lt;/p&gt;</description>
+      <guid>http://localhost:1313/blog/my-first-post/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/cash-home-buyers-columbus-oh.webp&#34; alt=&#34;Featured Image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Inheriting property can feel like a blessing and a burden all at once. While it’s valuable, managing or selling inherited real estate often comes with complicated emotions, legal paperwork, and time-consuming processes. If you’re looking to sell inherited property quickly and without stress, Emerson Real Estate is here to guide you every step of the way.&#xA;Why Selling Inherited Property Can Be Challenging&#xA;Inherited properties often come with challenges such as:&#xA;Multiple heirs who must agree on the sale&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

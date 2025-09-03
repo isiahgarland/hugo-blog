@@ -1,5 +1,12 @@
- {{ with .Params.featured_image }}
+{{/* head-additions.html */}}
+
+{{/* Any other meta tags or scripts you need can stay here */}}
+
+{{/* OG image removed to prevent social thumbnails */}}
+{{/* If you want, you can keep this commented out for future use:
+{{ with .Params.featured_image }}
   <meta property="og:image" content="{{ . | absURL }}">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
 {{ end }}
+*/}}
