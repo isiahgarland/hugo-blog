@@ -1,7 +1,6 @@
 ---
 title: "Cash Buyers in Columbus, OH: What You Need to Know"
 date: 2025-09-03
-featured_image: "/images/columbus-home-cash-offer.webp"
 draft: false
 ---
 
