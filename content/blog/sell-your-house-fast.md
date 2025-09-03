@@ -6,8 +6,7 @@ draft: false
 
 ![Sell Your House Fast](/images/sell-inherited-property.jpg)
 
-🔍 What Is Real Estate Wholesaling?
-Real estate wholesaling is a process where we connect motivated sellers with investors who are ready to buy. That means:
+🔍 What Is Real Estate Wholesaling? Real estate wholesaling is a process where we connect motivated sellers with investors who are ready to buy. That means:
 You don’t need to fix anything
  
 No agent fees or commissions
