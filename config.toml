@@ -2,3 +2,18 @@ baseURL = "https://emersonrealestateblogs.netlify.app/"
 languageCode = "en-us"
 title = "Emerson Real Estate Blogs"
 theme = "ananke"
+
+# Enable sitemap
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+# Enable outputs (for RSS and JSON feeds too)
+[outputs]
+  home = ["HTML", "RSS",]
+
+# Params (for SEO, Ananke theme uses description)
+[params]
+  description = "Your trusted source for real estate investing tips, wholesaling strategies, and market insights."
+  author = "Emerson Real Estate"
