@@ -1,10 +1,14 @@
-.hero, .cover, .main {
-  min-height: auto !important;
-  padding: 0 !important;
-  margin: 0 !important;
+.custom-hero h1 {
+    font-size: 1.2rem;  /* slightly smaller main title */
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin: 0;
+    text-transform: uppercase;
 }
-body {
-  background: white;
-  color: black;
-  font-family: sans-serif;
+
+.custom-hero h2 {
+    font-size: 0.9rem;   /* slightly smaller subheading */
+    font-weight: 300;
+    color: #333;
+    margin-top: 5px;
 }

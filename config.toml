@@ -11,9 +11,14 @@ theme = "ananke"
 
 # Enable outputs (for RSS and JSON feeds too)
 [outputs]
-  home = ["HTML", "RSS",]
+  home = ["HTML", "RSS"]
 
-# Params (for SEO, Ananke theme uses description)
+# Params (for SEO and custom CSS)
 [params]
   description = "Your trusted source for real estate investing tips, wholesaling strategies, and market insights."
   author = "Emerson Real Estate"
+  custom_css = ["css/custom.css"]   # ensure your CSS is applied
+
+# Allow raw HTML in Markdown
+[markup.goldmark.renderer]
+  unsafe = true
